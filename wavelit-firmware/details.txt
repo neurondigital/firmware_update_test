@@ -1,5 +1,0 @@
-{
-   "version":1.0.2,
-   "description":"Minor bug fixes",
-   "released":"21 Nov 2023"
-}
